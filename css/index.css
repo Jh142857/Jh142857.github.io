@@ -1,0 +1,21 @@
+body a {
+  text-decoration: none;
+}
+body a:link {
+  font-size: 12pt;
+  color: #0000cc;
+  /* font-family: 宋体; */
+  text-align: left;
+}
+body a:visited {
+  font-size: 9pt;
+  color: #0000cc;
+  /* font-family: 宋体; */
+  text-align: left;
+}
+body a:hover {
+  color: #993300;
+}
+body a:active {
+  color: #ff0033;
+}
